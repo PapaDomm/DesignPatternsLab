@@ -1,0 +1,14 @@
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.exe
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.deps.json
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.runtimeconfig.json
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.dll
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\bin\Debug\net8.0\DesignPatternsLab.pdb
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.AssemblyInfo.cs
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.dll
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\refint\DesignPatternsLab.dll
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.pdb
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\DesignPatternsLab.genruntimeconfig.cache
+C:\Users\Dominic\source\GrandCircus\repos\DesignPatternsLab\DesignPatternsLab\obj\Debug\net8.0\ref\DesignPatternsLab.dll
